@@ -2,7 +2,7 @@
 
 ## Method 1: Terminal Only
 
-1. **Step 1**: Open the command prompt/terminal. Go inside the `src` folder.
+1. **Step 1**: Open the command prompt/terminal. Go inside the `terminal` folder.
 
 2. **Step 2**: Compile the project using the following command:
     ```bash
@@ -33,7 +33,7 @@
 - Build the project and run the `main.cpp` file.
 - A map of India will appear. Mark the required number of cities on the map and then press `ESC`.
 - Leave the VS Code terminal running.
-- Open the command prompt/terminal. Go inside the `src` folder.
+- Open the command prompt/terminal. Go inside the `terminal` folder.
 - Compile the project using the following command:
     ```bash
     g++ -Wall *.cpp -o aco
