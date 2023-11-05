@@ -1,0 +1,9 @@
+C:/Users/Prakhar/Downloads/object detection/build/CMakeFiles/Experimental.dir
+C:/Users/Prakhar/Downloads/object detection/build/CMakeFiles/Nightly.dir
+C:/Users/Prakhar/Downloads/object detection/build/CMakeFiles/Continuous.dir
+C:/Users/Prakhar/Downloads/object detection/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/Prakhar/Downloads/object detection/build/CMakeFiles/cvtest.dir
+C:/Users/Prakhar/Downloads/object detection/build/CMakeFiles/PACKAGE.dir
+C:/Users/Prakhar/Downloads/object detection/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/Prakhar/Downloads/object detection/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Prakhar/Downloads/object detection/build/CMakeFiles/ZERO_CHECK.dir
