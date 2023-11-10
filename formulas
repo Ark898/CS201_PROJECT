@@ -1,0 +1,7 @@
+Alpha -> influences the probability of chosing the next node by pheromone intensity level  
+Beta -> influences the probability of chosing the next node by proximity factor 
+                                                                                 T_ij = pheromone level on path connecting i & j
+desire of moving from one city to another = (T_ij)^Alpha * (N_ij)^Beta             
+                                                                                 N_ij = inverse of distance between path i<->j
+
+P_ij = {T_ij)^Alpha * (N_ij)^Beta}/ {SUM OF ALL allowed  DESIRES from city i }
