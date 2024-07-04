@@ -1,5 +1,6 @@
 # CS201_PROJECT
-
+## SCREENSHOT
+![Screenshot (217)](https://github.com/Ark898/CS201_PROJECT/assets/137332440/46c72d3a-b071-403c-855a-a99241ab5126)
 ## Method 1: Terminal Only
 
 1. **Step 1**: Open the command prompt/terminal. Go inside the `terminal` folder.
