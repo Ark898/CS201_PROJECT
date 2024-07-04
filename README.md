@@ -1,6 +1,8 @@
 # CS201_PROJECT
 ## SCREENSHOT
-![Screenshot (217)](https://github.com/Ark898/CS201_PROJECT/assets/137332440/46c72d3a-b071-403c-855a-a99241ab5126)
+![WhatsApp Image 2023-11-05 at 20 20 06_1212a0d1](https://github.com/Ark898/CS201_PROJECT/assets/137332440/2e18d9c5-e6b0-4b99-aaa5-4cc5ce7f5646)
+![WhatsApp Image 2023-11-05 at 20 20 06_e50b4774](https://github.com/Ark898/CS201_PROJECT/assets/137332440/4e014ad7-a53a-4bdc-bd68-22faab57f4e1)
+
 ## Method 1: Terminal Only
 
 1. **Step 1**: Open the command prompt/terminal. Go inside the `terminal` folder.
